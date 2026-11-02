@@ -1,0 +1,34 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  background: #f8f9fa;
+}
+
+.site-header {
+  margin-bottom: 1.5rem;
+}
+
+.bg-steel {
+  background: #527c9f;
+}
+
+.content-section {
+  background: #fff;
+  border: 1px solid #dfe3e8;
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+.article-img {
+  border: 2px solid #dfe3e8;
+  object-fit: cover;
+}
+
+.article-title {
+  color: #2d3d4f;
+  text-decoration: none;
+}
+
+.article-content {
+  color: #444;
+  line-height: 1.6;
+}

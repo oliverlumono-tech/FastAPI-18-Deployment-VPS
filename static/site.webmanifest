@@ -1,0 +1,14 @@
+{
+  "name": "FastAPI Blog",
+  "short_name": "Blog",
+  "icons": [
+    {
+      "src": "/static/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#527c9f",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
